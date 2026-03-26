@@ -2,11 +2,9 @@
 
 Projeto web simples desenvolvido para aplicar conceitos básicos de **PHP** na prática, integrando também **HTML**, **CSS** e **JavaScript**.
 
-## 🌐 Demonstração
+## 🌐 Deploy
 
-Acesse o projeto online:
-
-**https://php-na-pratica.vercel.app**
+🔗 [Acessar projeto online](https://php-na-pratica.vercel.app)
 
 ## 🚀 Objetivo
 
@@ -27,8 +25,8 @@ Este projeto foi criado com o objetivo de praticar:
 
 ## 📂 Estrutura do projeto
 
-```plaintext id="o2l2up"
-PHP-na pratica/
+```plaintext id="w80g1v"
+php-na-pratica/
 │
 ├── index.php
 ├── header.php
@@ -63,16 +61,16 @@ Para rodar este projeto corretamente, é necessário utilizar um servidor local 
 1. Coloque a pasta do projeto dentro do diretório do servidor local
    Exemplo no Laragon:
 
-```plaintext id="ww2gk1"
-C:\laragon\www\PHP-na pratica
+```plaintext id="mpjczq"
+C:\laragon\www\php-na-pratica
 ```
 
 2. Inicie o servidor local
 
 3. Acesse no navegador:
 
-```plaintext id="fut06n"
-http://localhost/PHP-na pratica
+```plaintext id="l8lmz8"
+http://localhost/php-na-pratica
 ```
 
 ## 📚 Aprendizados
